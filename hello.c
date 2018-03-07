@@ -1,9 +1,6 @@
 #include <stdio.h>
-#include <string.h>
 
 int main() {
-   char a[12] =
-          "Carpe ";
-   printf("%s", strcat(a,
-          "Diem ."));
+   /* Why do I even need to learn Git? — 
+                 for the project, damn it. */
 }
