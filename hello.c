@@ -3,5 +3,6 @@
 int main() {
    /* Why do I even need to learn Git? — 
                  for the project, damn it. */
-   prinf("Is not that enough?");
+   printf("Is not that enough?");
+   printf("Have you noticed a mistake in the previous commit?");
 }
