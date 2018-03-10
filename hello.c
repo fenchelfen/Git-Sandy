@@ -7,4 +7,5 @@ int main() {
    printf("Have you noticed a mistake in the previous commit?");
    // something in the way.
    // she moves.
+   // he moves.
 }
